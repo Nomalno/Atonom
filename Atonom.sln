@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atonom", "Atonom\Atonom.csproj", "{315B7697-59AA-41F3-ACAB-7AF71B1E4947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{315B7697-59AA-41F3-ACAB-7AF71B1E4947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315B7697-59AA-41F3-ACAB-7AF71B1E4947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315B7697-59AA-41F3-ACAB-7AF71B1E4947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315B7697-59AA-41F3-ACAB-7AF71B1E4947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04593636-F63A-40E8-80FA-92FF0F11D744}
+	EndGlobalSection
+EndGlobal
